@@ -22,5 +22,13 @@
 * customer commute
 * customer age bracket
 
-  ## finally a vizualisation was carried out on all pivot table.
+## finally a vizualisation was carried out on all pivot table.
+![alt text] 
+![Excel Project Dataset - Excel (Product Activation Failed) 26_05_2023 08_15_16](https://github.com/Adenleayo/Bike-sales-dashbord-Excel/assets/115345947/a6d71371-1c03-448f-a558-37b8c87c60a7)
+
+
+
+
+
+
   
