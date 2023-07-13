@@ -11,4 +11,16 @@
 * children
 * Education
 * home owners
-* card
+* cars
+* commute distance
+* age bracket(middle-age,old,young)
+* age
+* purchased bike(yes/no)
+
+## pivot table was done 
+* average income per gender
+* customer commute
+* customer age bracket
+
+  ## finally a vizualisation was carried out on all pivot table.
+  
